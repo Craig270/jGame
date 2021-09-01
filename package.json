@@ -1,0 +1,25 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "very first game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Craig270/jGame.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Craig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Craig270/jGame/issues"
+  },
+  "homepage": "https://github.com/Craig270/jGame#readme",
+  "dependencies": {
+    "phaser": "^3.55.2"
+  }
+}
